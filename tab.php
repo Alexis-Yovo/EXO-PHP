@@ -1,7 +1,7 @@
 <?php
 // Tableaux associatifs représentant les personnes
 $personne1 = [
-    "nom" => "Ganesb",
+    "nom" => "Ganesh",
     "age" => 52,
     "sexe" => "Homme"
 ];
